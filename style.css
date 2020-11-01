@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 30px;
+  background: linear-gradient(to right, #eccb6f, #f27d7d);
+  font-family: Roboto;
+  /* font-size: 2em; */
+}
+h1 {
+  font-size: 2em;
+}
+h3 {
+  text-transform: lowercase;
+  font-size: 1.7em;
+  width: 80%;
+  padding: 20px;
+  background-color: white;
+  margin: 10px auto;
+}
