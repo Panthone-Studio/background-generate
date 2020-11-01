@@ -11,9 +11,15 @@ h1 {
 }
 h3 {
   text-transform: lowercase;
-  font-size: 1.7em;
+  font-size: 1.4em;
   width: 80%;
   padding: 20px;
   background-color: white;
   margin: 10px auto;
+}
+
+@media (min-width: 768px) {
+  h3 {
+    font-size: 1.7em;
+  }
 }
